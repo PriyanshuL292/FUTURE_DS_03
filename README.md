@@ -2,7 +2,7 @@
 
  🔍 Project Overview
 
-This project analyzes an e-commerce dataset to evaluate conversion performance across the business funnel. The focus is on identifying drop-offs between order placement and successful delivery, and uncovering factors affecting conversion efficiency.
+This project analyzes a Brazilian E-Commerce Public Dataset by Olist to evaluate conversion performance across the business funnel. The focus is on identifying drop-offs between order placement and successful delivery, and uncovering factors affecting conversion efficiency.
 
 ---
 
